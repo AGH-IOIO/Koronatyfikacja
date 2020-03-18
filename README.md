@@ -16,7 +16,7 @@ I also suggest watching those videos first:
 Here is example of how to solve isse - representation of task. Imagine that feature as a FB post, that tells us what should be implemented in our application.
 
 ### Pick issue
-Every issue has unique ID. Its value is important and it will be used in next steps as {ISSUE_ID} that is equal to the number after #.
+Every issue has unique ID. Its value is important and it will be used in next steps as {ISSUE_ID} that is equal to the number after #. If you pick issue, asign it to yourself - its a way to signalize that it is taken
 
 ![Image test](img/issue.png)
 
