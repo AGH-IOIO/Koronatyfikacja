@@ -1,9 +1,9 @@
 # Koronotyfikacja
 
 ## Workflow
-Protocol of making changes is a must while developing a project in a bigger group. Scrum master has a better track what is current state of works - which features are still missing or what has been done already. Also good planning prevents from regression commits and pushing unreadable/uncertain code.
+Protocol of making changes is a must while developing a project in a bigger group. Scrum master has a better track what is current state of project - which features are still missing or what has been already done. Protocol also prevents from regression commits and pushing unreadable/uncertain code.
 
-I also suggest watching those videos first:
+I suggest watching those videos first:
 
 - GithHub workflow
 
@@ -13,7 +13,7 @@ I also suggest watching those videos first:
 
   [![Alt text](https://img.youtube.com/vi/qRdht9CS_No/0.jpg)](https://www.youtube.com/watch?v=qRdht9CS_No)
 
-Here is example of how to solve isse - representation of task. Imagine that feature as a FB post, that tells us what should be implemented in our application.
+Here is short example of how to solve isse - representation of task. Imagine that feature as a FB post, that tells us what should be implemented in our application.
 
 ### Pick issue
 Every issue has unique ID. Its value is important and it will be used in next steps as {ISSUE_ID} that is equal to the number after #. If you pick issue, asign it to yourself - its a way to signalize that it is taken
