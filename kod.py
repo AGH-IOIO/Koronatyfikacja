@@ -1,0 +1,1 @@
+print("Zycie to Michau")
