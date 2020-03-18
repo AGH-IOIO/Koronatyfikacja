@@ -27,7 +27,12 @@ This issue has {ISSUE_ID} equal to 7. Lets implement this feature!
 After Your few hours of work its time to persist your changes in repository:
 
 ```
-git pull #synchronize with remote master 
+
+#synchronize with remote master
+git checkout master
+git pull
+
+#create issue/feature branch
 git checkout -b fix/{ISSUE_ID}
 git add .
 git commit -m "Closed #{ISSUE_ID}
